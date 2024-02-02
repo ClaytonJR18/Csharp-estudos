@@ -1,0 +1,14 @@
+D:\Projetos-CDB\EstruturaDeRepetição\bin\Debug\net8.0\EstruturaDeRepetição.exe
+D:\Projetos-CDB\EstruturaDeRepetição\bin\Debug\net8.0\EstruturaDeRepetição.deps.json
+D:\Projetos-CDB\EstruturaDeRepetição\bin\Debug\net8.0\EstruturaDeRepetição.runtimeconfig.json
+D:\Projetos-CDB\EstruturaDeRepetição\bin\Debug\net8.0\EstruturaDeRepetição.dll
+D:\Projetos-CDB\EstruturaDeRepetição\bin\Debug\net8.0\EstruturaDeRepetição.pdb
+D:\Projetos-CDB\EstruturaDeRepetição\obj\Debug\net8.0\EstruturaDeRepetição.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-CDB\EstruturaDeRepetição\obj\Debug\net8.0\EstruturaDeRepetição.AssemblyInfoInputs.cache
+D:\Projetos-CDB\EstruturaDeRepetição\obj\Debug\net8.0\EstruturaDeRepetição.AssemblyInfo.cs
+D:\Projetos-CDB\EstruturaDeRepetição\obj\Debug\net8.0\EstruturaDeRepetição.csproj.CoreCompileInputs.cache
+D:\Projetos-CDB\EstruturaDeRepetição\obj\Debug\net8.0\EstruturaDeRepetição.dll
+D:\Projetos-CDB\EstruturaDeRepetição\obj\Debug\net8.0\refint\EstruturaDeRepetição.dll
+D:\Projetos-CDB\EstruturaDeRepetição\obj\Debug\net8.0\EstruturaDeRepetição.pdb
+D:\Projetos-CDB\EstruturaDeRepetição\obj\Debug\net8.0\EstruturaDeRepetição.genruntimeconfig.cache
+D:\Projetos-CDB\EstruturaDeRepetição\obj\Debug\net8.0\ref\EstruturaDeRepetição.dll

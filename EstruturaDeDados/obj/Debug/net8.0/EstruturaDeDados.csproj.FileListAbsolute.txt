@@ -1,0 +1,14 @@
+D:\Projetos-CDB\EstruturaDeDados\bin\Debug\net8.0\EstruturaDeDados.exe
+D:\Projetos-CDB\EstruturaDeDados\bin\Debug\net8.0\EstruturaDeDados.deps.json
+D:\Projetos-CDB\EstruturaDeDados\bin\Debug\net8.0\EstruturaDeDados.runtimeconfig.json
+D:\Projetos-CDB\EstruturaDeDados\bin\Debug\net8.0\EstruturaDeDados.dll
+D:\Projetos-CDB\EstruturaDeDados\bin\Debug\net8.0\EstruturaDeDados.pdb
+D:\Projetos-CDB\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-CDB\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.AssemblyInfoInputs.cache
+D:\Projetos-CDB\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.AssemblyInfo.cs
+D:\Projetos-CDB\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.csproj.CoreCompileInputs.cache
+D:\Projetos-CDB\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.dll
+D:\Projetos-CDB\EstruturaDeDados\obj\Debug\net8.0\refint\EstruturaDeDados.dll
+D:\Projetos-CDB\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.pdb
+D:\Projetos-CDB\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.genruntimeconfig.cache
+D:\Projetos-CDB\EstruturaDeDados\obj\Debug\net8.0\ref\EstruturaDeDados.dll
